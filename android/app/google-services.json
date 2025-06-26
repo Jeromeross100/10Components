@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68816773953",
+    "project_id": "components-82360",
+    "storage_bucket": "components-82360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68816773953:android:49e6a9cb0c1d918e93f7c0",
+        "android_client_info": {
+          "package_name": "com.company.tencomponents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntHPo3mqXgZEIigsAVwSiLZZ9NaD51wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
